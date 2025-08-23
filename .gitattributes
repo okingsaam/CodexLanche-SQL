@@ -1,0 +1,1 @@
+"*.sql linguist-language=SQL"  echo "*.java linguist-language=ignore"  git add .gitattributes git commit -m "Corrigindo linguagem do reposit¢rio para SQL" git push
