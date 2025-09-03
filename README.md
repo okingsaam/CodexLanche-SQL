@@ -111,8 +111,7 @@ Essas tabelas são projetadas para manter o banco de dados normalizado e evitar 
 
 ## 📐 Diagrama ER (Entidade-Relacionamento)
 
-### Versão em Imagem
-*(adicione aqui o print/exportação do seu diagrama do Workbench ou outro gerenciador)*
+
 
 ### Versão em Mermaid
 ```mermaid
