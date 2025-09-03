@@ -1,6 +1,11 @@
 # 🍔 CodexLanche-SQL
 
-Sistema de gerenciamento de pedidos para uma lanchonete fictícia, desenvolvido com foco em modelagem e manipulação de banco de dados SQL.
+![status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![sql](https://img.shields.io/badge/DB-MySQL%20%7C%20PostgreSQL-blue)
+![license](https://img.shields.io/badge/license-MIT-green)
+![contribuicoes](https://img.shields.io/badge/contribui%C3%A7%C3%B5es-bem%20vindas-brightgreen)
+
+Sistema de gerenciamento de pedidos para uma lanchonete fictícia, desenvolvido com foco em **modelagem** e **manipulação** de banco de dados SQL.
 
 ---
 
@@ -29,11 +34,9 @@ Além disso, também inclui exemplos de consultas SQL para interação com as ta
 ## 🚀 Como Usar
 
 1. **Clone o repositório:**
-
    ```bash
    git clone https://github.com/okingsaam/CodexLanche-SQL.git
 
-   ## 📥 Importando os arquivos `.sql`
 
 Importe os arquivos `.sql` no seu gerenciador de banco de dados.  
 Você pode fazer isso pelo **MySQL Workbench**, **pgAdmin**, ou diretamente pelo **terminal**, dependendo do seu SGBD preferido.
@@ -183,4 +186,15 @@ Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE pa
 Este projeto é um projeto de estudo, no qual estou apenas testando meus conhecimentos e buscando melhorar.
 O foco é entender e aplicar boas práticas de modelagem e manipulação de banco de dados.
 Não é um projeto em produção, e ainda está em fase de aprendizado e testes.
+
+---
+
+---
+
+## 👨‍💻 Autor
+
+**Sam Douglas**  
+📧 samdouglask88@gmail.com  
+🐙 [github.com/okingsaam](https://github.com/okingsaam)  
+🔗 [linkedin.com/in/sam-douglas-6076b91b8](https://linkedin.com/in/sam-douglas-6076b91b8)  
 
