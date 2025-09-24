@@ -1,1 +1,15 @@
-"*.sql linguist-language=SQL"  echo "*.java linguist-language=ignore"  git add .gitattributes git commit -m "Corrigindo linguagem do reposit�rio para SQL" git push
+# 🧠 Prioriza arquivos SQL
+*.sql linguist-detectable=true
+
+# ❌ Ignora arquivos que não são código principal
+*.csv linguist-detectable=false
+*.md linguist-detectable=false
+*.json linguist-detectable=false
+*.yml linguist-detectable=false
+*.yaml linguist-detectable=false
+*.log linguist-detectable=false
+*.txt linguist-detectable=false
+
+# 📁 Ignora pastas de documentação e automação
+docs/* linguist-documentation
+.github/* linguist-generated
